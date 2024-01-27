@@ -89,10 +89,12 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   margin-right: 76px;
+  padding: 24px 0;
 }
 
 .header-logo-color {
   color: #2e2f42;
+  padding: 24px 0;
 }
 
 .header-menu-list {
@@ -216,8 +218,6 @@ width: calc((100% - 72px) / 4);
   background-color: #F4F4FD;
   padding-top: 120px;
   padding-bottom: 120px;
-  padding-left: 156px;
-  padding-right: 156px;
 }
 
 
@@ -336,13 +336,13 @@ width: calc((100% - 72px) / 4);
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  margin-bottom: 18px;
+  margin-bottom: 16px;
   display: inline-block;
 }
 
 .footer-logo-color {
   color: #f4f4fd;
-  margin-bottom: 18px;
+  margin-bottom: 16px;
 }
 
 .footer-text {
